@@ -1,0 +1,3 @@
+[submodule "cklab"]
+	path = cklab
+	url = https://github.com/mayerife/cklab
